@@ -81,5 +81,6 @@ Examples:
   | yes     | Cruiser   | 0     | X         | no       | damaged| {player} hit a cruiser   ! | no            | resumes        |
   | yes     | Aircraft  | 4     | X         | fatal!   | sunk   | {player} sunk an Aircraft! Congratulations {player} wins! | yes | game-over |
 
-    TBD...on example of all the edge cases, not all the combinations. Specification by example.
-    An example showing how each change affects the desired system behavior.
+    Attendees to add in as many examples as are needed to give their code suitable coverage. One example at least of all the edge cases,
+    and not all of the combinations are necessary. This is "Specification by example." 
+    Each "example" demonstrates how each change affects the desired system behavior.
