@@ -45,6 +45,7 @@
     <Compile Include="Lib\Board.cs" />
     <Compile Include="Lib\Game.cs" />
     <Compile Include="Lib\Ship.cs" />
+    <Compile Include="Lib\ShipClass.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
